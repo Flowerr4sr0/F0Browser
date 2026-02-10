@@ -7,7 +7,7 @@ function formatURL(text) {
 
         if (text.includes(".")) return "https://" + text;
 
-        return "https://floweryt6.github.io/Flower%20Search/?q=" + encodeURIComponent(text);
+        return "https://google.com/?q=" + encodeURIComponent(text);
     }
 
     return text;
