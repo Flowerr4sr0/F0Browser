@@ -1,6 +1,6 @@
 # F0 Browser
 
-⭐ What This Version Can Do
+## ⭐ What This Version Can Do
 F0 Browser now has:
 • Multi tab system
 • Navigation history
@@ -10,3 +10,6 @@ F0 Browser now has:
 • Multiple error detection
 • Search fallback
 • Fully separated files
+
+## Fixed Bugs
+• URL
