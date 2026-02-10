@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background: #111;
+    color: white;
+}
+
+#tabs {
+    display: flex;
+    background: #1a1a1a;
+    padding: 5px;
+}
+
+.tab {
+    padding: 6px 12px;
+    margin-right: 4px;
+    background: #2a2a2a;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.tab.active {
+    background: #ff69b4;
+}
+
+.navbar {
+    display: flex;
+    padding: 8px;
+    background: #1a1a1a;
+    gap: 6px;
+}
+
+.navbar input {
+    flex: 1;
+    padding: 6px;
+    border: none;
+    background: #2a2a2a;
+    color: white;
+    border-radius: 6px;
+}
+
+#pageIcon {
+    width: 24px;
+    height: 24px;
+}
+
+iframe {
+    width: 100%;
+    height: calc(100vh - 95px);
+    border: none;
+}
