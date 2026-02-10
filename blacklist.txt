@@ -1,0 +1,3 @@
+examplebadsite.com
+tracker.com
+malware.test
