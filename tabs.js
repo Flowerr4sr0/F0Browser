@@ -1,7 +1,7 @@
 let tabs = [];
 let activeTab = null;
 
-function createTab(url = "https://floweryt6.github.io/Flower%20Search/") {
+function createTab(url = "https://example.com") {
 
     const id = "tab" + Date.now();
 
